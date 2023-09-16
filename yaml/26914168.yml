@@ -1,0 +1,36 @@
+---
+id: 26914168
+name: Dark Honest
+type: Effect Monster
+frameType: effect
+desc: 'Once per turn, during your Main Phase: You can return this face-up card to
+  the hand. During the Damage Step, when your DARK monster battles an opponent''s
+  monster (Quick Effect): You can send this card from your hand to the GY; that opponent''s
+  monster loses ATK equal to its own ATK, until the end of this turn.'
+atk: 1100
+def: 1900
+level: 4
+race: Fairy
+attribute: DARK
+card_sets:
+- set_name: 2022 Tin of the Pharaoh's Gods
+  set_code: MP22-EN068
+  set_rarity: Ultra Rare
+  set_rarity_code: "(UR)"
+  set_price: '0'
+- set_name: Lightning Overdrive
+  set_code: LIOV-EN022
+  set_rarity: Secret Rare
+  set_rarity_code: "(ScR)"
+  set_price: '10.29'
+card_images:
+- id: 26914168
+  image_url: https://images.ygoprodeck.com/images/cards/26914168.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/26914168.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/26914168.jpg
+card_prices:
+- cardmarket_price: '0.25'
+  tcgplayer_price: '0.22'
+  ebay_price: '1.50'
+  amazon_price: '0.95'
+  coolstuffinc_price: '0.49'
